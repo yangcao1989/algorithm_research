@@ -1,1 +1,1 @@
-# algorithm_research
+# some popular algorithms study from leetcode
